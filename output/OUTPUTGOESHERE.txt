@@ -1,0 +1,4 @@
+output goes here. The program should output
+a chart file (png)
+a csv file (csv)
+and a image file (jpg)
